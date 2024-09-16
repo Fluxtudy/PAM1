@@ -6,7 +6,8 @@
 
   .Tenis{
     width: 350px;
-    margin-bottom: -70px;
+    margin-bottom: -80px;
+  
   }
   
   ion-content {
@@ -16,6 +17,7 @@
   margin-bottom: -50px;
   margin-left: 20px;
   font-family: 'Holtwood One SC', serif;
+  padding: 1px;
   font-size: 35px;
   color: #1d486d;
   margin-right: -40px
@@ -24,12 +26,21 @@
 .Fonte_Titulo2{
   margin-left: 20px;
   font-family: 'Holtwood One SC', serif;
-  font-size: 40px;
+  font-size: 35px;
   color: #ffffff;
   margin-right: -40px
+  
 }
 
 
-.botão{
+.Botão{
   color: orange;
+  padding: 100px 70px; 
+  border: none; 
+  border-radius: 40px; 
+}
+.Texto{
+  font-family: 'Istok Web', sans-serif;
+  color: #ffffff;
+  margin-bottom: -60px;
 }
